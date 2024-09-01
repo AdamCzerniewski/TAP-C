@@ -170,7 +170,7 @@ class Ui_MainWindow(object):
         self.label_circuit.setFont(font)
         self.label_circuit.setAutoFillBackground(False)
         self.label_circuit.setText("")
-        self.label_circuit.setPixmap(QtGui.QPixmap("../../../../tapc1circuit5.png"))
+        self.label_circuit.setPixmap(QtGui.QPixmap("../../../../tapCcircuit.png"))
         self.label_circuit.setScaledContents(True)
         self.label_circuit.setObjectName("label_circuit")
         self.label_r1Ohms = QtWidgets.QLabel(self.centralwidget)
