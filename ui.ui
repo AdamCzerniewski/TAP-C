@@ -606,7 +606,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../../tapc1circuit5.png</pixmap>
+     <pixmap>../../../../tapCcircuit.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
